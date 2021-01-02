@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2ef4cdefabeed49708543e9b9df4bd8e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scary Halloween Font
+  fontNames:
+  - Scary Halloween Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1ecdd01f4cb64d1db1ff130af1a9cd3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

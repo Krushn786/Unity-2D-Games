@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69da3695c8fc94e8c9343301987be17c, type: 3}
+  m_Name: A1. Outside Hanger
+  m_EditorClassIdentifier: 
+  storytext: 'Festers EveryWhere.
+
+    10 guards..
+
+
+    What should I do?
+
+    1.
+    Take them heads on!
+
+    2. Sneak my way to exit...'
+  nextStates:
+  - {fileID: 11400000, guid: b1f0b4188387d4b5caeb10d38f01d628, type: 2}
+  - {fileID: 11400000, guid: 129f7a0a94a474667816b62cc02fb8a2, type: 2}

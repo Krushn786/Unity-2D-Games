@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69da3695c8fc94e8c9343301987be17c, type: 3}
+  m_Name: A8. Evesdropping
+  m_EditorClassIdentifier: 
+  storytext: 'Approch the people and kill them before they you!
+
+
+    1. Don''t engage,
+    just turn the value back on!
+
+    2. Run, as fast as you can..'
+  nextStates:
+  - {fileID: 11400000, guid: 923f0482c823a43b39bc1392d7566e90, type: 2}
+  - {fileID: 11400000, guid: 9fa9f5719cc78410aa3eb2da3866fc06, type: 2}

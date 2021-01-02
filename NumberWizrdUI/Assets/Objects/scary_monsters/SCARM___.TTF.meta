@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ec21eb415183142f6a7643f548cb56e8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scary Monsters
+  fontNames:
+  - Scary Monsters
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02b7587b7c90c4429a3b7fac505d00a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

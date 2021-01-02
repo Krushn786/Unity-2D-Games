@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69da3695c8fc94e8c9343301987be17c, type: 3}
+  m_Name: A0. Intro
+  m_EditorClassIdentifier: 
+  storytext: "Welcome to the game!\n\n Choose your adventure!\n\nThe controls are
+    keyboard key 1 or2\n\nat anypoint press Q to quit!"
+  nextStates:
+  - {fileID: 11400000, guid: 2902cc26f977f4f53a67d9ba61e20232, type: 2}
